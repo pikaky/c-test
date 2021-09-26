@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\84232\Desktop\c\三子棋小游戏\Project1\Project1\test.c(89,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84232\Desktop\c\三子棋小游戏\Project1\Project1\test.c(212,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\84232\Desktop\c\三子棋小游戏\Project1\Debug\Project1.exe
